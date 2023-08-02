@@ -20,7 +20,7 @@ G2L["2"]["BorderSizePixel"] = 0;
 G2L["2"]["BackgroundColor3"] = Color3.fromRGB(28, 28, 28);
 G2L["2"]["Size"] = UDim2.new(0, 480, 0, 172);
 G2L["2"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["2"]["Position"] = UDim2.new(0.4210246205329895, 0, 0.3930288553237915, 0);
+G2L["2"]["Position"] = UDim2.new(0.4162198007106781, 0, 0.39663460850715637, 0);
 
 -- StarterGui.ScreenGui.Frame.UICorner
 G2L["3"] = Instance.new("UICorner", G2L["2"]);
